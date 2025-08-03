@@ -117,16 +117,17 @@ document.addEventListener("DOMContentLoaded", () => {
           <div class="placeholder-content">
             <i class="fas fa-home fa-3x"></i>
             <h3>Home Dashboard</h3>
-            <p>Coinbase Support is the customer service team for Coinbase, a popular online platform for buying, selling, and storing cryptocurrencies like Bitcoin, Ethereum, and others.
+            <p>Welcome to Crypto.com Support. Your trusted source for fast, secure assistance.
 
-The Coinbase Support team is responsible for:
+We handle:
+• Account and verification issues
+• Transaction and payment problems
+• Security and 2FA setup
+• Technical or app-related errors
 
-1. Answering questions about Coinbase services and features.
-2. Resolving issues with accounts, transactions, and payments.
-3. Providing guidance on security, verification, and compliance.
-4. Assisting with technical problems, such as login or connectivity issues.
+Contact us 24/7 via the in-app chat
 
-You can typically contact Coinbase Support through here .</p>
+Reminder: Crypto.com will never ask for your password or 2FA code. Stay protected .</p>
           </div>
         `
         break
